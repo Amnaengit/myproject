@@ -1,0 +1,26 @@
+.base{
+background-color:#eee ;
+margin: 20px auto ;
+padding: 15px;
+width: 400px;
+height: 200px;
+}
+.one{
+color: rgb(0 30 0 / 50%);
+border-bottom:5px solid green ;
+padding:5px ;
+
+}
+.tow{
+    color:rgb(0 30 0 / 50%);
+    border-bottom:5px solid rgb(25, 64, 25);
+    padding:5px ;
+    
+    }
+
+    .three{
+        color:rgb(0 30 0 / 50%);
+        border-bottom:5px solid rgb(8, 29, 8) ;
+        padding:5px ;
+        
+        }
